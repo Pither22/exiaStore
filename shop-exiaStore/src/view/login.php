@@ -1,6 +1,6 @@
 <div class="accueil">
 	
 
-<?= $articleDemo->getName();?>
+LOGIN
 
 </div>

@@ -9,6 +9,8 @@
 <body>
 <div class="header">
 
-HEADER
+HEADER 
+<a href="index.php?page=accueil">Accueil</a>
+<a href="index.php?page=login">Connexion</a>
 
 </div>
