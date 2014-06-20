@@ -23,14 +23,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </a>
-          <a class="brand" href="#">eXia Store</a>
+          <a class="brand" href="?page=home">eXia Store</a>
           <!-- Structure du menu -->
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="#">Home</a></li>
-              <li><a href="#">Sign Up</a></li>
-              <li><a href="#">Log In</a></li>
-              <li><a href="#">Shop</a></li>
+              <li class="active"><a href="?page=home">Home</a></li>
+              <li><a href="?page=signup">Sign Up</a></li>
+              <li><a href="?page=login">Log In</a></li>
+              <li><a href="?page=shop">Shop</a></li>
               
             </ul>
             <!-- Champ de recherche -->
