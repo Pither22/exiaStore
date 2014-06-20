@@ -1,17 +1,19 @@
+<!DOCTYPE html>
 <html lang="fr">
-<meta HTTP-EQUIV="Pragma" CONTENT="no-cache"> 
-<head>
+  <head>
 <title>eXia Store</title>
     <!-- On ouvre la fenÃªtre Ã  la largeur de l'Ã©cran -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- IntÃ©gration du CSS Bootstrap -->
     <link href="media/lib/bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
     <!-- IntÃ©gration du CSS responsive Bootstrap -->
-    <link href="media/lib/bootstrap/css/bootstrap.css" rel="stylesheet">
+    <link href="media/lib/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
 <meta content="" name="description"/>
 <meta content="" name="author"/>
 </head>
 <body>
+ <!-- Conteneur principal -->
+    <div class="container">
      <!-- Barre de navigation -->
       <div class="navbar navbar-inverse">
         <div class="navbar-inner">

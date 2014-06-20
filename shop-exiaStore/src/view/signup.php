@@ -1,8 +1,6 @@
-<div class="accueil">
-	
+<div class="signup">
 
-<style type="text/css">
-     
+   <style type="text/css">
 
       .form-signin {
         max-width: 300px;
@@ -30,19 +28,13 @@
       }
 
     </style>
-   
+    <link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
       <script src="../assets/js/html5shiv.js"></script>
     <![endif]-->
 
-    <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
   </head>
 
   <body>
@@ -50,12 +42,11 @@
     <div class="container">
 
       <form class="form-signin">
-        <h2 class="form-signin-heading">Please sign in</h2>
-        <input type="text" class="input-block-level" placeholder="Email address">
+        <h2 class="form-signin-heading">Please sign up</h2>
+        <input type="text" class="input-block-level" placeholder="Login">
         <input type="password" class="input-block-level" placeholder="Password">
-        <label class="checkbox">
-          <input type="checkbox" value="remember-me"> Remember me
-        </label>
+        <input type="text" class="input-block-level" placeholder="Email Adress">
+        <input type="text" class="input-block-level" placeholder="Delivery Adress">
         <button class="btn btn-large btn-primary" type="submit">Sign in</button>
       </form>
 
@@ -79,5 +70,6 @@
     <script src="bootstrap/js/bootstrap-typeahead.js"></script>
 
     <hr class="bs-docs-separator">
+
 
 </div>
