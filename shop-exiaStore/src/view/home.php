@@ -48,18 +48,24 @@
           <p>
 			-08/14/2014: Rihana released her new album called "Woman with red hair".
           </p>
-          <p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p>
+          <p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p><br>
+		  <p>
+			-08/27/2014: The Reggae Sun Ska Live concert of Danakil. <br> Preorder it now !!
+          </p>
+          <p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p><br>
 		  <p>
 			-09/21/2014: Avengers 2: Earth is threatened again, the super heroes of the Shield are reminded to perform another miracle...
-			<p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p>
+			<p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p><br>
         </div>
         <div class="span4">
-          <h2>Paragraphe avec image</h2>
+          <h2>The concert of the century !</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ...
-            <img src="http://placehold.it/360x100" class="img-rounded">
+			Last Saturday, a wave of madness has befallen The Adrienne Arsht Center when the undisputed star of dubstep, 
+			Skrillex, entered the scene.<br>
+			Now buy the DVD of this unforgettable live.
+            <img src="media/img/skrillex.jpg" class="img-rounded">
           </p>
-          <p><a class="btn" href="#">En savoir plus <i class="icon-chevron-right"></i></a></p>
+          <p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p>
         </div>
         <div class="span4">
           <h2>Adress</h2>
