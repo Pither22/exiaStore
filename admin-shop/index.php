@@ -14,12 +14,11 @@ if (!isset($_SESSION['adminAuth'])){
      
 }
 include 'src/controller/header.php';
-include 'src/controller/aside.php';
 //On inclut le contrôleur s'il existe et s'il est spécifié
 if (!empty($_GET['page']) && is_file('src/controller/' . $_GET['page'] . '.php')) {
     include 'src/controller/' . $_GET['page'] . '.php';
 }else {
-    include 'src/controller/accueil.php';
+    include 'src/controller/home.php';
 }
 include 'src/controller/footer.php';
 
