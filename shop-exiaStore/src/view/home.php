@@ -8,24 +8,24 @@
             <!-- Carousel items -->
             <div class="carousel-inner">
               <div class="active item">
-                <img src="media/img/cd4.jpg" alt="what">
+                <img src="media/img/coldplay.jpg" alt="what">
                 <div class="carousel-caption">
-                  <h4>1er slide</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
+                   <h4>Coldplay : Ghost stories</h4>
+                  <p>the sixth album of British rock band Coldplay.</p>
+				</div>
+              </div>
+              <div class="item">
+                <img src="media/img/hobbit.jpg" alt="whut">
+                <div class="carousel-caption">
+                  <h4>The Hobbit: Desolation of Smaug</h4>
+                  <p>The second part of the saga "The Hobbit" directed by Peter Jackson. </br> In search of a great treasure, Bilbon Sacquet and his friends woke its owner, Smaug...</p>
                 </div>
               </div>
               <div class="item">
-                <img src="media/img/cd5.jpg" alt="whut">
+                <img src="media/img/thor.jpg" alt="nyou">
                 <div class="carousel-caption">
-                  <h4>2eme slide</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
-                </div>
-              </div>
-              <div class="item">
-                <img src="media/img/dvd2.png" alt="nyou">
-                <div class="carousel-caption">
-                  <h4>3eme slide</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
+                  <h4>Thor: The Dark World</h4>
+                  <p>The oldest enemies of the Hasgards resurface headed by the powerful Malekith. </br> To save nine kingdoms, Thor will join forces with his sworn enemy, his brother Loki...</p>
                 </div>
               </div>
             </div>
@@ -44,11 +44,14 @@
       <!-- DeuxiÃ¨me ligne de notre grille -->
       <div class="row">
         <div class="span4">
-          <h2>Exemple de paragraphe</h2>
+		  <h2>In preorder</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Culpa qui officia deserunt mollit anim id est laborum.
+			-08/14/2014: Rihana released her new album called "Woman with red hair".
           </p>
-          <p><a class="btn" href="#">En savoir plus <i class="icon-chevron-right"></i></a></p>
+          <p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p>
+		  <p>
+			-09/21/2014: Avengers 2: Earth is threatened again, the super heroes of the Shield are reminded to perform another miracle...
+			<p><a class="btn" href="#">Know more<i class="icon-chevron-right"></i></a></p>
         </div>
         <div class="span4">
           <h2>Paragraphe avec image</h2>
@@ -59,21 +62,20 @@
           <p><a class="btn" href="#">En savoir plus <i class="icon-chevron-right"></i></a></p>
         </div>
         <div class="span4">
-          <h2>Adresse</h2>
+          <h2>Adress</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, ...
+            Exi@Store has three shop, including one in Bordeaux...
           </p>
           <address>
-            <strong>Twitter, Inc.</strong><br>
-            795 Folsom Ave, Suite 600<br>
-            San Francisco, CA 94107<br>
-            <abbr title="Phone">P:</abbr> (123) 456-7890
+            95 Falcom Street<br>
+            CA 33000<br>
+			Bordeaux.<br>
+            <abbr title="Phone">Phone:</abbr> (+33)8.51.08.99.43
           </address>
           <address>
-            <strong>Full Name</strong><br>
-            <a href="mailto:#">first.last@gmail.com</a>
+            <strong>Roubon Stephane</strong><br>
+            <a href="mailto:#">roubon.stephane@gmail.com</a>
           </address>
-          <p><a class="btn" href="#">En savoir plus <i class="icon-chevron-right"></i></a></p>
         </div>
       </div>
 
@@ -82,19 +84,23 @@
       <!-- TroisiÃ¨me ligne de notre grille -->
       <div class="row">
         <div class="span12">
-          <h1>Zone de texte</h1>
+          <h1>Exi@Store</h1>
           <p>
-            ed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi 
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione 
-voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,  ...
+			Exi@Store is a brand which is headquartered in Paris. It specializes in the sale
+			cultural products such as DVDs, CDs, books (novels, Artworks), comics,
+			video games and other goodies ...
           </p>
           <p>
-            At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati 
-cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam 
-libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. 
-Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic 
-tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+            Currently, Exi@Store has two stores in Paris and one in Bordeaux.
+			Customers can also order products by mail (with payment
+			by check or money order). Exi @ Store updates every two months or so,
+			a printed list showing all products in its catalog.
+			This listing is sent by telephone request.
           </p>
+		  <p>
+			Our customers are increasingly important, we decided to open a website selling online
+			to compete on the multimedia market, But also to satisfy our customers in larger quantities and more quickly.
+		  </p>
         </div>
       </div>
 
