@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="en">
   <head>
 <title>eXia Store</title>
     <!-- On ouvre la fenÃªtre Ã  la largeur de l'Ã©cran -->
@@ -30,6 +30,7 @@
               <li class="active"><a href="?page=home">Home</a></li>
               <li><a href="?page=signup">Sign Up</a></li>
               <li><a href="?page=login">Log In</a></li>
+              <li><a href="?page=login">Log Out</a></li>
               <li><a href="?page=shop">Shop</a></li>
               
             </ul>
@@ -40,4 +41,4 @@
           </div>
         </div>
       </div>
-	  
+    

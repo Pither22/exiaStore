@@ -30,7 +30,10 @@
               <li class="active"><a href="?page=home">Home</a></li>
               <li><a href="?page=signup">Sign Up</a></li>
               <li><a href="?page=login">Log In</a></li>
+              <li><a href="?page=login">Log Out</a></li>
               <li><a href="?page=shop">Shop</a></li>
+             <li><a href="?page=login">Shopping Cart</a></li>
+
               
             </ul>
             <!-- Champ de recherche -->
