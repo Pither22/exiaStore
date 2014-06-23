@@ -8,21 +8,21 @@
             <!-- Carousel items -->
             <div class="carousel-inner">
               <div class="active item">
-               <img src="media/img/cd4.jpg" alt="what">
+                <img src="media/img/cd4.jpg" alt="what">
                 <div class="carousel-caption">
                   <h4>1er slide</h4>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
                 </div>
               </div>
               <div class="item">
-                <img src="media\img/cd5.jpg" alt="whut">
+                <img src="media/img/cd5.jpg" alt="whut">
                 <div class="carousel-caption">
                   <h4>2eme slide</h4>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
                 </div>
               </div>
               <div class="item">
-                // <img src="media\img/dvd2.png" alt="nyou">
+                <img src="media/img/dvd2.png" alt="nyou">
                 <div class="carousel-caption">
                   <h4>3eme slide</h4>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris ...</p>
@@ -36,7 +36,7 @@
         </div>
         <div class="span5 hidden-phone">
           <a href="#" class="thumbnail">
-            <img src="http://placehold.it/470x380" class="img-rounded">
+            <img src="http://placehold.it/450x380" class="img-rounded">
           </a>
         </div>
       </div>

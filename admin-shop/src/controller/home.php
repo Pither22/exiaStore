@@ -5,5 +5,5 @@
 
 
 
-	include(dirname(__FILE__). '/../view/accueil.php'); 
+	include(dirname(__FILE__). '/../view/home.php'); 
 ?>

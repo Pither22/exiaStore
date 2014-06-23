@@ -7,7 +7,7 @@
             Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ...
             <img src="http://placehold.it/400x400" class="img-rounded">
           </p>
-          <p><a href="?page=detail" class="btn btn-primary btn-large">Purchase &raquo;</a></p>
+          <p><a href="?page=order" class="btn btn-primary btn-large">Purchase &raquo;</a></p>
           
         </div>
 
